@@ -1,0 +1,19 @@
+name = input("Hey, what's your name?")
+
+print("Nice to meet you", name)
+
+color = input("Hey, what's your favorite color?")
+
+print("I like the color", color)
+
+age = input("How old are you?")
+
+print("Interesting you are", age)
+
+character = input("What type of character are you?")
+
+print("Woah your character is a", character)
+
+difficulty = input("What's your difficulty level?")
+
+print("Cool, your difficulty level is", difficulty)
