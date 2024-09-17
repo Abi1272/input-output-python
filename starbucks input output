@@ -1,0 +1,2 @@
+starbucks= input("What do you want to order at starbucks?")
+print("Ok, here is your", starbucks)
